@@ -36,11 +36,11 @@
 
 ###
 
-<img align="left" height="60" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  />
+<img align="left" height="40" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  />
 
 ###
 
-<img align="left" height="47" src="https://maxmautner.com/public/images/django.gif"  />
+<img align="left" height="37" src="https://maxmautner.com/public/images/django.gif"  />
 
 ###
 
@@ -51,9 +51,5 @@
 ###
 
 <p align="left">https://prantikpaul.github.io/</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/prantikpaul/prantikpaul/output/snake.svg" alt="Snake animation" />
 
 ###
