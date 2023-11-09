@@ -35,15 +35,13 @@
 <h2 align="left">I’m Currently Working On ..</h2>
 
 ###
-
+<div align="left">
 <img align="left" height="40" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  />
-<br>
-
-###
-
 <img align="left" height="37" src="https://maxmautner.com/public/images/django.gif"  />
+</div>
 
 ###
+
 
 <br clear="both">
 
