@@ -9,9 +9,11 @@
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="css3 logo"  />
   <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
+  <img src="https://www.svgrepo.com/show/452088/php.svg" height="44" alt="php logo"  />
   <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="44" alt="django logo"  />
+  <img src="https://www.svgrepo.com/show/306319/laravel.svg" height="44" alt="laravel logo"  />
+  <img width="19" />
+   <img src="https://www.svgrepo.com/show/306646/react.svg" height="44" alt="laravel logo"  />
 </div>
 
 ###
@@ -34,15 +36,7 @@
 
 ###
 
-<h2 align="left">I’m Currently Working On ..</h2>
 
-###
-<div align="left">
-<img align="left" height="40" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  />
-
-  
-<img align="left" height="37" src="https://maxmautner.com/public/images/django.gif"  />
-</div>
 
 ###
 
